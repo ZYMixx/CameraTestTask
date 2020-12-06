@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CameraTestTask</string>
+
+
+
+    /menu
+    <string name="settings_menu">settings</string>
+    <string name="profile_menu">profile</string>
+    <string name="update_menu">update</string>
+    <string name="enter_profile">Войдите в аккаунт</string>
+    <string name="enter">вход</string>
+</resources>
